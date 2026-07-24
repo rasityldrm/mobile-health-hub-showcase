@@ -66,6 +66,7 @@ flowchart TD
     A --> E[OpenFoodFacts API]
     A --> F[Firebase Cloud Function]
     F --> G[OpenAI Responses API]
+```
 
 The OpenAI API key is never stored inside the mobile application. AI-powered nutrition requests are processed through an authenticated Firebase Cloud Function.
 
