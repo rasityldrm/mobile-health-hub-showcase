@@ -91,18 +91,24 @@ The health section combines multiple wellness and personal health management fea
 ### AI-Assisted Nutrition Analysis
 
 Users can submit a food image for nutrition estimation. Requests are securely processed through a backend endpoint rather than directly from the mobile client.
-
 ## Screenshots
 
-Sanitized application screenshots will be added here.
+<p align="center">
+  <img src="screenshots/01-home-dashboard.png" width="220" alt="Home dashboard">
+  <img src="screenshots/02-nutrition-diary.png" width="220" alt="Nutrition diary">
+  <img src="screenshots/03-meal-details.png" width="220" alt="Meal details">
+</p>
 
-| Home Dashboard | Nutrition Diary | Activity Tracking |
-|---|---|---|
-| Coming soon | Coming soon | Coming soon |
+<p align="center">
+  <img src="screenshots/04-discover.png" width="220" alt="Discover screen">
+  <img src="screenshots/05-discover-details.png" width="220" alt="Discover details">
+  <img src="screenshots/06-sport-rooms.png" width="220" alt="Sport rooms">
+</p>
 
-| Sport Rooms | Health Hub | Profile |
-|---|---|---|
-| Coming soon | Coming soon | Coming soon |
+<p align="center">
+  <img src="screenshots/07-profile.png" width="220" alt="Profile screen">
+  <img src="screenshots/08-profile-details.png" width="220" alt="Profile details">
+</p>
 
 ## My Contributions
 
